@@ -1,7 +1,7 @@
 #include"employee.h"
 int main() {
 
-	cout << "\n\033[33m========TechSolutions========\033[0m" << endl;
+	cout << "\n\033[33m=========TechSolutions=========\033[0m" << endl;
 
 	cout << "Creating Employee through Consructor Initializer List" << endl;
 	employee e1("Muhammad Abdullah Mirza", 0001, 5000000);
